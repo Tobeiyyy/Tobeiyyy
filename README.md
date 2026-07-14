@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Tobe 👋
 
-<!--
-**Tobeiyyy/Tobeiyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Informatics student by day, prompt engineer by obsession. I spend a lot of time thinking about how to make AI systems do what you actually mean instead of what you literally said.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [FLIP Prompt Architect](https://github.com/Tobeiyyy/FLIP-prompt-architect)
+
+A meta-prompt framework for Claude that interviews you before it builds anything. It routes your idea to the right artifact class — one-shot prompt, persistent assistant, skill, pipeline blueprint, coding-agent brief, or "just use the tool you already have" — and refuses to guess when it doesn't understand yet.
+
+Built it because most prompt generators answer before they listen. This one doesn't.
+
+---
+
+*More projects in the works. This profile will grow.*
