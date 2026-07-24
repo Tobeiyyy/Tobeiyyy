@@ -8,7 +8,7 @@ Business Informatics student by day, prompt engineer by obsession. I spend a lot
 
 A meta-prompt framework for Claude that interviews you before it builds anything. It routes your idea to the right artifact class — one-shot prompt, persistent assistant, skill, pipeline blueprint, coding-agent brief, or "just use the tool you already have" — and refuses to guess when it doesn't understand yet.
 
-Built it because most prompt generators answer before they listen. This one doesn't.
+Built it because most prompt generators answer before they listen. This one does the opposite.
 
 ---
 
