@@ -1,6 +1,6 @@
 # Hey, I'm Tobe 👋
 
-Business Informatics student by day, prompt engineer by obsession. I spend a lot of time thinking about how to make AI systems do what you actually mean instead of what you literally said.
+Business Informatics student by day, LLM orchestrator by obsession. I spend a lot of time thinking about how to make AI systems do what I actually mean.
 
 ## What I'm working on
 
